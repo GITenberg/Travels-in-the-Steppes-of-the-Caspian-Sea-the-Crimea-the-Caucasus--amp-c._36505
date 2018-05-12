@@ -1,0 +1,42 @@
+_repo: Travels-in-the-Steppes-of-the-Caspian-Sea-the-Crimea-the-Caucasus--amp-c._36505
+_version: 0.1.0
+alternative_title: Steppes de la mer Caspienne. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hommaire de Hell, Adèle
+    aliases:
+    - De Hell, Adèle Hommaire
+    - Hommaire de Hell, Jeanne-Louise-Adélaïde Hériot
+    - Hommaire de Hell, Jeanne-Louise-Adelaide Heriot
+    - Hommaire de Hell, Adele
+    - Hell, Adèle Hommaire de
+    gutenberg_agent_id: '43338'
+    url: http://www.gutenberg.org/2009/agents/43338
+  - agent_name: Hommaire de Hell, Xavier
+    aliases:
+    - De Hell, Xavier Hommaire
+    - Hell, Xavier Hommaire de
+    - Hommaire de Hell, Ignace-Xavier-Morand
+    birthdate: 1812
+    deathdate: 1848
+    gutenberg_agent_id: '38310'
+    url: http://www.gutenberg.org/2009/agents/38310
+description: ''
+gutenberg_issued: '2011-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36505'
+  lccn: 05010943
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Caucasus -- Description and travel'
+- !lcsh 'Crimea (Ukraine) -- Description and travel'
+title: Travels in the Steppes of the Caspian Sea, the Crimea, the Caucasus, &c.
+url: http://www.gutenberg.org/ebooks/36505
